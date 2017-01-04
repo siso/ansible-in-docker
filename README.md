@@ -17,7 +17,7 @@ Run `ansible` and `ansible-playbook` as usual.
 Build Docker image:
 
 ```sh
-docker build -t siso/ansible:0.1 .
+docker build -t siso/ansible:0.2 .
 ```
 
 ## FAQ

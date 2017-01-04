@@ -6,6 +6,6 @@ docker run --rm -it \
 	--cap-add SYS_ADMIN \
 	--device /dev/fuse \
 	$@ \
-	siso/ansible:0.1
+	siso/ansible:0.2
 
 exit $?
