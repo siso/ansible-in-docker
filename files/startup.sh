@@ -3,7 +3,7 @@
 echo '**************************************'
 echo '               Welcome'
 echo
-echo 'Ansible in Docker container v0.2'
+echo 'Ansible in Docker container v0.2.1'
 echo '**************************************'
 
 # mount host ~/.ssh into container /root
